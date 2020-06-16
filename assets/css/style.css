@@ -31,8 +31,7 @@ height: 73px;
     
 }
 
-p{
-
+.descripcion{
 left: 150px;
 width: 475px;
 height: 197px;
@@ -41,6 +40,8 @@ font-family: Light 16px/19px Raleway;
 letter-spacing: 0px;
 color: #FFFFFF;
 opacity: 1;
+margin-left: auto;
+margin-top: 63px;
 
 }
 
@@ -49,7 +50,7 @@ opacity: 1;
     top: 800px;
     left: 0px;
     width: 1280px;
-    height: 348px;
+    height: 288px;
     background: #000000 0% 0% no-repeat padding-box;
     opacity: 1;
     column-count: 2;
@@ -62,4 +63,33 @@ width: 399px;
 height: 237px;
 background: transparent url('img/photo-1492963892107-740cd39d9ff3.png') 0% 0% no-repeat padding-box;
 opacity: 1;
+}
+
+.caracteristicas{
+top: 1141px;
+left: 0px;
+width: 1280px;
+height: 348px;
+background: #1E1A13 0% 0% no-repeat padding-box;
+opacity: 0.98;
+margin-top: auto;
+margin-top: 19px;
+}
+
+.imgIguana{
+    top: 1313px;
+left: 620px;
+width: 39px;
+height: 40px;
+opacity: 1;
+
+}
+
+.titleCaract{
+    margin-top: 60px;
+}
+
+.iconos{
+
+    column-count: 3;
 }
